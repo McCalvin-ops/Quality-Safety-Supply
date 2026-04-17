@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Quality Safety Supply and Training icon</title>
+  <rect width="512" height="512" fill="#000000"/>
+  <g transform="translate(256 252)">
+    <g fill="#f4a300">
+      <path d="M-132 -32 C-104 -111 -47 -169 -8 -184 C13 -146 18 -95 15 -40 Z"/>
+      <path d="M132 -32 C104 -111 47 -169 8 -184 C-13 -146 -18 -95 -15 -40 Z"/>
+      <rect x="-153" y="-37" width="143" height="24" rx="12"/>
+      <rect x="10" y="-37" width="143" height="24" rx="12"/>
+    </g>
+    <g fill="#001f5b" transform="translate(0 42)">
+      <path d="M-182 -9 h364 l-4 37 c-1 10 -9 18 -19 20 l-57 10 -29 50 h-55 l-12 -37 h-39 l-12 37 h-55 l-29 -50 -57 -10 c-10 -2 -18 -10 -19 -20 z"/>
+      <path d="M-165 4 A165 165 0 0 0 165 4 v33 A199 199 0 0 1 141 96 l31 51 -40 23 -31 -50 a200 200 0 0 1 -61 21 v58 h-46 v-58 a200 200 0 0 1 -61 -21 l-31 50 -40 -23 31 -51 a199 199 0 0 1 -24 -59 z"/>
+    </g>
+  </g>
+</svg>

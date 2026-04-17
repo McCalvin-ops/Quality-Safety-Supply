@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
+  <title id="title">Quality Safety Supply and Training (Pty) logo</title>
+  <desc id="desc">Primary company logo with icon and tagline.</desc>
+  <rect width="1400" height="360" fill="#000000"/>
+  <g transform="translate(170 184)">
+    <g fill="#f4a300">
+      <path d="M-72 -22 C-56 -65 -25 -97 -5 -105 C5 -84 8 -57 7 -28 Z"/>
+      <path d="M72 -22 C56 -65 25 -97 5 -105 C-5 -84 -8 -57 -7 -28 Z"/>
+      <rect x="-84" y="-24" width="78" height="16" rx="8"/>
+      <rect x="6" y="-24" width="78" height="16" rx="8"/>
+    </g>
+    <g fill="#001f5b" transform="translate(0 23)">
+      <path d="M-98 -5 h196 l-2 20 c-1 5 -5 10 -10 11 l-30 5 -15 27 h-30 l-6 -20 h-18 l-6 20 h-30 l-15 -27 -30 -5 c-5 -1 -9 -6 -10 -11 z"/>
+      <path d="M-89 2 A89 89 0 0 0 89 2 v17 A108 108 0 0 1 76 51 l17 27 -21 12 -16 -27 a108 108 0 0 1 -33 11 v31 h-24 v-31 a108 108 0 0 1 -33 -11 l-16 27 -21 -12 17 -27 a108 108 0 0 1 -13 -32 z"/>
+    </g>
+  </g>
+  <g fill="#001f5b" font-family="Arial, Helvetica, sans-serif" transform="translate(320 0)">
+    <text x="0" y="118" font-size="66" font-weight="700" letter-spacing="2">QUALITY SAFETY SUPPLY</text>
+    <text x="0" y="188" font-size="66" font-weight="700" letter-spacing="2">AND TRAINING (PTY)</text>
+    <text x="0" y="262" font-size="40" font-weight="500" letter-spacing="12" fill="#c9a56a">
+      YOUR SAFETY IS OUR CONCERN
+    </text>
+  </g>
+</svg>
