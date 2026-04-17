@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - cursor/premium-safety-website-37bc
   workflow_dispatch:
 
 permissions:
